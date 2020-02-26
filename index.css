@@ -1,0 +1,85 @@
+
+
+body{
+    margin: 0px;
+   
+}
+
+
+
+li{
+    display: inline;
+    margin-right: 7px;
+    margin-left: 7px;
+    padding: 9px;
+    padding-right: 50px;
+    padding-left: 50px;
+    border-top: 1px solid red;
+    border-bottom: 1px solid red;
+    border-radius: 35px;
+    
+}
+
+li:hover{
+   
+    color: green;
+}
+
+
+
+
+
+
+ul{
+    font-size: 30px;
+    width: 80%;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+  
+    padding: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    cursor: pointer;
+    height: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+p:hover{
+    color: green;
+}
+
+
+button:active{
+    background-color: greenyellow;
+}
+
+div{
+    background-color: aquamarine;
+    width: 350px;
+    height: 250px;
+}
+
+table :hover{
+    color: blue;
+}
+}

@@ -1,0 +1,37 @@
+
+
+
+
+
+*{
+    background-color: teal;
+}
+
+h4 {
+    color: blue;
+}
+
+h4{
+    color: white;
+}
+
+p{
+    color: greenyellow;
+}
+
+
+.heading{
+    color: khaki;
+}
+
+#subheading{
+    color: lawngreen;
+}
+
+div> h4{
+    color: hotpink;
+}
+
+th{
+    color:
+}

@@ -1,0 +1,76 @@
+
+*{
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+   
+    }
+}
+
+table , th , td {
+    padding: 10px;
+    font-size: 40px;
+}
+
+tr,th,td{
+    
+    border-bottom: solid 1px red;
+    margin: auto;
+}
+
+
+
+
+th{
+    background-color: aqua;
+}
+
+
+
+
+
+
+.g{
+    background-color: gray;
+}
+
+.sg{
+    background-color: darkcyan;
+}
+
+.y{
+    background-color: khaki;
+}
+
+.b{
+    background-color: skyblue;
+}
+
+.j{
+    background-color: cornflowerblue;
+}
+
+.bl{
+    background-color: black;
+    color: white;
+}
+
+.gr{
+    background-color: aquamarine;
+}
+
+
+.p{
+    background-color: darksalmon;
+}
+
+.co{
+    background-color: deepskyblue;
+}
+
+
+
+tr , .s {
+    border-top: red 1px solid;
+}
+

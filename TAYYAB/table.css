@@ -1,0 +1,77 @@
+
+
+
+
+*{
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1px;
+    border-radius: 10px;
+}
+
+#work{
+    padding: 12px;
+    font-size: 40px;
+}
+
+table , td {
+    padding: 5px;
+}
+
+
+
+
+
+
+
+
+th{
+    background-color:  yellow;
+}
+
+
+#o{
+    background-color: orange;
+}
+
+#p{
+    background-color: palevioletred;
+    font-size: large;
+}
+
+#y{
+    background-color: yellow;
+    font-size: large;
+}
+
+#b{
+    background-color: skyblue;
+}
+
+#g{
+    background-color: lightyellow;
+}
+
+#l{
+    background-color: lightsteelblue;
+}
+
+#t{
+    background-color: seagreen;
+}
+
+#k{
+    background-color: saddlebrown;
+}
+
+#e{
+    background-color: teal;
+}
+
+div{
+    vertical-align: text-bottom;
+}
+
+
+
